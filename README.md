@@ -1,2 +1,2 @@
 # MIS500
-Foundations of Data Analytics Class
+Foundations of Data Analytics
